@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "nanoid": "^4.0.0",
+    "nanoid": "^4.0.1",
     "vite": "^4.0.4"
   },
   "type": "module"
